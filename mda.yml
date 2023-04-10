@@ -1,0 +1,4 @@
+name: mda
+channels:
+  - defaults
+prefix: C:\Users\baris\Anaconda3\envs\mda

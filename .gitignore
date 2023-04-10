@@ -1,6 +1,6 @@
 out/*
 *.DS_Store
 .here
+.Rhistory
+*.ipynb_checkpoints
 
-
-.Rproj.user
